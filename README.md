@@ -15,3 +15,10 @@ D-money is a demo financial related project where fake money can be transferred.
 - Give following commands:
 - ``` npm i ```
 - ``` npm test ```
+
+## D-money API Documentation
+- https://documenter.getpostman.com/view/29168349/2s9Y5YRhRs
+
+## Bug Report and Test Cases for this project:
+- https://drive.google.com/drive/folders/15kJbt01Ce9mlAk2L8u6Eu7H_MQoAgf3V?usp=sharing
+
