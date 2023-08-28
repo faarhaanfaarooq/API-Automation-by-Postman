@@ -22,3 +22,6 @@ D-money is a demo financial related project where fake money can be transferred.
 ## Bug Report and Test Cases for this project:
 - https://drive.google.com/drive/folders/15kJbt01Ce9mlAk2L8u6Eu7H_MQoAgf3V?usp=sharing
 
+## Test Report:
+![reports](https://github.com/farhann-farooq/API-Automation-by-Postman/assets/77632460/2423fc15-760c-4055-9c4a-cf9976877c1d)
+
